@@ -53,3 +53,5 @@ Link al repositorio
 [https://github.com/LinguiniPanini/coffee-q/tree/master](https://github.com/LinguiniPanini/coffee-q/tree/master)
 
 Link al video
+
+[https://youtu.be/OgofPu4OWu4](https://youtu.be/OgofPu4OWu4)
